@@ -22,8 +22,6 @@ int main() {
             //cout<<highestSkill-S[k]<<endl;
         }
         cout << "Case #" << i << ": " <<hours<< endl;
-        // cout knows that n + m and n * m are ints, and prints them accordingly.
-        // It also knows "Case #", ": ", and " " are strings and that endl ends the line.
     }
     return 0;
 }
